@@ -8,6 +8,5 @@ Qt5, OpenCV3
 # Usage
 To generate cross-view image pairs, you need to prepare the satellite image with known GPS coordinate of image corners, and txt file record the GPS coordinates. 
 
-<div align=center>
-  ![CVM_Dataset_Generator](https://user-images.githubusercontent.com/35421034/125183298-10a98580-e248-11eb-8110-56be111af387.png)
-  <\div>
+![Screenshot from 2021-04-30 13-13-33](https://user-images.githubusercontent.com/35421034/125183430-371bf080-e249-11eb-92c5-14ef91169685.png)
+
